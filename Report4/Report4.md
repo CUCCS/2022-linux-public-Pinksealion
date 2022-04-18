@@ -93,7 +93,7 @@ $ bash img_processing.sh -q 50
 $ bash img_processing.sh -r 90
 ```
 
-![](img/img_proportional_compression.jpg)
+![img_proportional_compression](img/img_proportional_compression.jpg)
 
 ```bash
 # 支持对图片批量添加自定义文本水印
